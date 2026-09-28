@@ -1,0 +1,15 @@
+Conexao aberta, pode enviar dados.
+oi
+boa noite
+ok
+tudo bem?
+sasalla
+Cliente desconectado.
+Conexao aberta, pode enviar dados.
+oi
+Cliente desconectado.
+[CLIENTE]: Conexao aberta, pode enviar dados.
+[CLIENTE]: oi
+[CLIENTE]: ls
+[CLIENTE]: bom dia?
+[CLIENTE]: te amo
